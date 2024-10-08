@@ -53,4 +53,4 @@ Hi! I'm Monster, I'm currently studying Software Development in college
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=00ffcc&style=flat" alt="monsterinno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=00ffcc&style=flat" alt="monsterinno" width="120" height="30" /> </p>
