@@ -44,13 +44,13 @@ Hi! I'm Monster, I'm currently studying Software Development in college
 
 <h2 align="center">Github Stats:</h2>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" />
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=00ffcc&style=flat" alt="monsterinno" /> </p>
