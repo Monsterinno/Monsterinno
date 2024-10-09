@@ -36,9 +36,9 @@ Hi! I'm Monster, I'm currently studying Software Development in college
 
 <h2 align="center">Github Stats:</h2>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" width="333"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" width="333"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" width="333"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" width="312"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" width="312"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" width="312"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=00ffcc&style=flat" alt="monsterinno" width="120"/> </p>
