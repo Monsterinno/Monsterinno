@@ -36,8 +36,8 @@ Hi! I'm Monster, I'm currently studying Software Development in college
 
 <h2 align="center">Github Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monsterinno&theme=dark" alt="monsterinno" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" width="350"/>
 </p>
 
