@@ -8,7 +8,7 @@ Hi! I'm Monster, I'm currently studying Software Development in college
 
 - 🌱 I’m currently learning; **App Development**
 
-- 💬 Ask me about; **My take on deep pondering questions!**
+- 💬 Ask me about; **My take on certain topics!**
 
 - ⚡ Fun fact; **You are more creative when you are bored!**
 
@@ -41,4 +41,4 @@ Hi! I'm Monster, I'm currently studying Software Development in college
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" width="350"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=00ffcc&style=flat" alt="monsterinno" width="120"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=74cb83&style=flat" alt="monsterinno" width="120"/> </p>
