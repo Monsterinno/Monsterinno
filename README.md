@@ -4,7 +4,7 @@
 Hi! I'm Monster, I'm currently studying Software Development in college 
 
 ## About me;
-- 📋 My current project as of right now is; **BoltAC**
+- 📋 My current project as of right now is; **Key-per**, a password manager tool
 
 - 🌱 I’m currently learning; **App Development**
 
