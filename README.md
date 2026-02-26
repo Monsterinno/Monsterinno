@@ -33,12 +33,5 @@ Hi! I'm Monster, I'm currently studying Software Development in college
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="120"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
 </p>
-
-<h2 align="center">Github Stats:</h2>
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=monsterinno&show_icons=true&theme=dark&locale=en" alt="monsterinno" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterinno&show_icons=true&theme=dark&locale=en&layout=compact" alt="monsterinno" width="400"/>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=74cb83&style=flat" alt="monsterinno" width="120"/> </p>
+<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=monsterinno&label=Profile%20Visitors&color=74cb83&style=flat" alt="monsterinno" width="120"/> </p>
