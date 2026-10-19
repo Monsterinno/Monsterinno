@@ -1,12 +1,10 @@
 <h1 align="center">Greetings! I'm Monsterinno, but you can call me Monster</h1>
 <h3 align="center">Software Development Student</h3>
 
-Hi! I'm Monster, I'm currently studying Software Development in college 
+Hi! I'm Monster, I'm currently studying Software Engineering in uni
 
 ## About me;
-- 📋 My current project as of right now is; **Key-per**, a password manager tool
-
-- 🌱 I’m currently learning; **App Development**
+- 📋 My current project as of right now is a secret ;)
 
 - 💬 Ask me about; **My take on certain topics!**
 
@@ -14,12 +12,6 @@ Hi! I'm Monster, I'm currently studying Software Development in college
 
 - 🍕 favorite food; **Pizza is the best**!
 
-<!--
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.youtube.com/@몬스테르" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="몬스테르" height="60" width="60" /> </a>
-</p>
--->
 <h2 align="center">Contact me here!</h2>
 <p align="center">
   <a href="https://discord.gg/553X8YVuHX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="553X8YVuHX" height="120" width="120" /></a>
